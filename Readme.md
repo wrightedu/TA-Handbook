@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://github.com/wrightedu/TA-Handbook">
     <img src="./res/header.jpeg" alt="CECS Wright State" width="250" height="250">
