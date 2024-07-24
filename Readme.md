@@ -18,7 +18,8 @@
 - [Forgetting to Submit your Timesheet](#forgetting-to-submit-your-timesheet)
 - [Working well with students](#working-well-with-students)
 - [Grading](#grading)
-   * [Grading Bias ](#grading-bias)
+   * [How to Grade](#how-to-grade)
+   * [Grading Bias](#grading-bias)
 - [Help Rooms](#help-rooms)
 - [Office Hours](#office-hours)
 - [Discord](#discord)
@@ -95,6 +96,20 @@ be accessed through the course Pilot page's DropBox section. Pilot will let you 
 
 The general advice here is to always give feedback telling students what they missed according to the assignment rubric.
 It is recommended to grade all assignments as a draft and then publish them all at once.
+
+### How to Grade
+  1. From the home page of the class you're TAing for, go to dropbox.
+  <img src="./img/grading/home.png" alt="Alt text" width="500" height="300">
+
+  2. Then select what dropbox you're going to grade.
+  <img src="./img/grading/dropbox.png" alt="Alt text" width="500" height="346">
+
+  3. Then select which student you're going to grade.
+  <img src="./img/grading/student.png" alt="Alt text" width="500" height="396">
+
+  4. Then input the points for the student and any feedback you have for them.
+  <img src="./img/grading/grading.png" alt="Alt text" width="500" height="270">
+
 
 ### Grading Bias 
 Everyone grades a little bit differently. A rubric is a starting place for ensuring consistency, but submissions are
