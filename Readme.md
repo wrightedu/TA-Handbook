@@ -11,6 +11,7 @@
   <br>
 </p>
 
+## Table of Contents
 - [Getting Started](#getting-started)
 - [Clocking Hours](#clocking-hours)
 - [What can be clocked:](#what-can-be-clocked)
