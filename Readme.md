@@ -11,8 +11,19 @@
   <br>
 </p>
 
-## Table of Contents
-- generate this later
+- [Getting Started](#getting-started)
+- [Clocking Hours](#clocking-hours)
+- [What can be clocked:](#what-can-be-clocked)
+- [Forgetting to Submit your Timesheet](#forgetting-to-submit-your-timesheet)
+- [Working well with students](#working-well-with-students)
+- [Grading](#grading)
+   * [Grading Bias ](#grading-bias)
+- [Help Rooms](#help-rooms)
+- [Office Hours](#office-hours)
+- [Discord](#discord)
+- [Classes:](#classes)
+- [Course Evaluations:](#course-evaluations)
+- [CS118X](#cs118x)
 
 ## Getting Started
 So you've been hired as a CS/CEG Teaching Assistant (TA). Congratuations 🥳.
