@@ -32,7 +32,7 @@ You can treat this repository as a general guide to being a TA. You'll meet many
 of many great people and students in the department. It's a great networking and learning opportunity.
 
 ## Clocking Hours
-1. To clock hours, first go to ![Wings Express](https://wingsexpress.wright.edu/)
+1. To clock hours, first go to [Wings Express](https://wingsexpress.wright.edu/)
 You should have a new employee tab here.
 <img src="./img/employeeTab.png" alt="Alt text" width="300" height="200">
 
@@ -124,10 +124,10 @@ here if is it not busy at their chosen time. It currently supports the following
     - MTH 2570
     - CEG 2170
     It is primarily focused on CS118X for the time being, as those are the TAs who are generally staffing it. For more information,
-    check out the ![departments guide](https://engineering-computer-science.wright.edu/computer-science-and-engineering/help-room)
+    check out the [departments guide](https://engineering-computer-science.wright.edu/computer-science-and-engineering/help-room)
 - Electrical Engineering Help Room
     Undergraduate students taking EE courses can get help by visiting the EE help room. For more information,
-    check out the ![departments guide](https://www.wright.edu/student-success/academic-support/walk-in-departmental-help-rooms)
+    check out the [departments guide](https://www.wright.edu/student-success/academic-support/walk-in-departmental-help-rooms)
 - Dr. Taylor Informal Help Room
     Dr. Taylor's help room is an informal option to point students to if they are having more general difficulties. Areas of help are:
     - Understanding the importance of discrete mathematics in Computer Science & Engineering
