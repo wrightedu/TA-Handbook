@@ -56,8 +56,9 @@ Any job related work may be clocked in your timesheet. This includes, but is def
 - Labs
 - Office Hours
 - Answering a bunch of angry student emails
-- Writing guides in a repository for future TAs.
-- Just make sure you don't work for free and that your timesheet accurately reflects the hours you worked. Having some tractability here
+- Writing guides in a repository for future TAs
+
+Just make sure you don't work for free and that your timesheet accurately reflects the hours you worked. Having some tractability here
 is helpful, but not strictly necessary.
 
 ## Forgetting to Submit your Timesheet
@@ -91,6 +92,7 @@ be accessed through the course Pilot page's DropBox section. Pilot will let you 
 - Give Feedback
 - Save grade as draft
 - Publish grade to student
+
 The general advice here is to always give feedback telling students what they missed according to the assignment rubric.
 It is recommended to grade all assignments as a draft and then publish them all at once.
 
@@ -132,11 +134,11 @@ here if is it not busy at their chosen time. It currently supports the following
 - Dr. Taylor Informal Help Room
 
     Dr. Taylor's help room is an informal option to point students to if they are having more general difficulties. Areas of help are:
-    - Understanding the importance of discrete mathematics in Computer Science & Engineering
-    - How to improve comprehension
-    - Basic math problem-solving and study skills
-    - How to develop a computer code starting with a basic problem statement
-    - Long and short-range options regarding the major of your degree
+    - Understanding the importance of discrete mathematics in Computer Science & Engineering.
+    - How to improve comprehension.
+    - Basic math problem-solving and study skills.
+    - How to develop a computer code starting with a basic problem statement.
+    - Long and short-range options regarding the major of your degree.
 
 
 ## Office Hours
@@ -153,7 +155,7 @@ The CECS department has a discord server. It acts as a central hub for informal 
 Every semester, you can select roles depending on what classes you are taking (or in this case teaching). Students can
 use this to ask questions, where you can answer them in a public manner to benefit all students. 
 Due to the public nature of the Discord server, do not allow students to upload their assignment code. With the `Teaching Assistant` role, you
-are granted the ability to delete their messages.
+are granted the ability to delete their messages as needed.
 Join the discord [here](https://discord.com/invite/pMUMzTt).
 
 ## Classes
