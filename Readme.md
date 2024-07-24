@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wrightedu/TA-Handbook">
-    <img src="./res/header.jpeg" alt="CECS Wright State" width="250" height="250">
+    <img src="./img/header.jpeg" alt="CECS Wright State" width="250" height="250">
   </a>
 </p>
 
@@ -100,11 +100,29 @@ Grader A would evaluate students 0-25 and Grader B would evaluate students 26-50
 
 These methods can and should be used in tandem with one another for more consisten student evaluation
 
-
-
-
-
-## Help Room
+## Help Rooms
+There are several help rooms in the department
+- Programming and Discrete Math Help Room
+This is the effective CS help room. Many people chose to host their office hours
+here if is it not busy at their chosen time. It currently supports the following courses
+    - CS 1180
+    - CS 1181
+    - CS 1160
+    - CS 2200
+    - MTH 2570
+    - CEG 2170
+    It is primarily focused on CS118X for the time being, as those are the TAs who are generally staffing it. For more information,
+    check out the ![departments guide](https://engineering-computer-science.wright.edu/computer-science-and-engineering/help-room)
+- Electrical Engineering Help Room
+    Undergraduate students taking EE courses can get help by visiting the EE help room. For more information,
+    check out the ![departments guide](https://www.wright.edu/student-success/academic-support/walk-in-departmental-help-rooms)
+- Dr. Taylor Informal Help Room
+    Dr. Taylor's help room is an informal option to point student to if they are having more general difficulties. Areas of help are:
+    - Understanding the importance of discrete mathematics in Computer Science & Engineering
+    - How to improve comprehension
+    - Basic math problem-solving and study skills
+    - How to develop a computer code starting with a basic problem statement
+    - Long and short range options regarding major of your degree
 
 
 ## Office Hours
@@ -114,6 +132,11 @@ increased based on need. But this only applies within reason (i.e. don't hold 10
 There should be a dedicated space somewhere for you to hold these, but that can move if it is needed, see [helproom](##help-room)
 
 ## Discord
+
+The CECS department has a discord server. It acts as a central hub for more informal communication about courses.
+Every semester, you can select roles depending on what classes you are taking (or in this case teaching). Students can
+use this to ask questions, where you can answer them in public manner to benefit all students. 
+Join the discord ![here](discord link here)
 
 ## Classes:
 If you are interested in your particular course resources, check out `classes/[your_class].md` for more detailed guide.
