@@ -74,12 +74,46 @@ really helps students feel comfortable and facilitates a better learning environ
 students ask for a deadline extension for a valid reason, make reasonable accomadations. Balancing empathy and being fair to everyone can be challenging.
 
 ## Grading
+How your class does grading is generally pretty class dependent. If the students have some sort of Pilot Deliverable, it can
+be accessed through the course Pilot page's DropBox section. Pilot will let you do 4 things for each student
+- Score it
+- Give Feedback
+- Save grade as draft
+- Publish grade to user
+The general advice here is to always give feedback telling students what they missed according to the assignment rubric.
+Try to grade all assignments as a draft and then publish them all at once.
+
+### Grading Bias 
+Everyone grades a little bit differently. A rubric is a starting place for ensuring consistency, but submissions are
+almost always more nuanced than a simple rubric can account for. If there is only a single grader, this is less of a issue, 
+as the one grader will apply the same bias to each student, but gets harder when you have more graders.
+Generally, there are two approaches to solving this problem. It is heavily encouraged that one of these is followed to avoid
+grading bias in student grades
+
+- Central Authority:
+Audit all graders proposed scores through a central authority (often a lab leader) to ensure that all graders
+docked the same number of points for similar offenses
+
+- Rotation:
+Rotate which grader is responsible for grading which student submissions. For instance, if you had 2 grades and 50 students,
+Grader A would evaluate students 0-25 and Grader B would evaluate students 26-50. On the following week, have Grader A evaluate 26-50 and B evalute 0-25
+
+These methods can and should be used in tandem with one another for more consisten student evaluation
+
+
+
 
 
 ## Help Room
 
 
 ## Office Hours
+If you are a lab leader, you are required to hold weekly office hours. This is time for students to get more personalized
+help and/or feedback regarding course related materials. You are required to hold a minimum of 2 office hours per week. This number can be
+increased based on need. But this only applies within reason (i.e. don't hold 10 extra hours one week because you just wanted more hours)
+There should be a dedicated space somewhere for you to hold these, but that can move if it is needed, see [helproom](##help-room)
+
+## Discord
 
 ## Classes:
 If you are interested in your particular course resources, check out `classes/[your_class].md` for more detailed guide.
