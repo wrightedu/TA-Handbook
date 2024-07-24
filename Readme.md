@@ -149,7 +149,7 @@ There should be a dedicated space somewhere for you to hold these, but that can 
 The CECS department has a discord server. It acts as a central hub for more informal communication about courses.
 Every semester, you can select roles depending on what classes you are taking (or in this case teaching). Students can
 use this to ask questions, where you can answer them in a public manner to benefit all students. 
-Join the discord ![here](https://discord.com/invite/pMUMzTt).
+Join the discord [here](https://discord.com/invite/pMUMzTt).
 
 ## Classes:
 If you are interested in your particular course resources, check out `classes/[your_class].md` for a more detailed guide.
