@@ -24,7 +24,6 @@
 - [Discord](#discord)
 - [Classes:](#classes)
 - [Course Evaluations:](#course-evaluations)
-- [CS118X](#cs118x)
 
 ## Getting Started
 So you've been hired as a CS/CEG Teaching Assistant (TA). Congratuations 🥳.
