@@ -160,7 +160,3 @@ You will have to ask students to fill these out if you want real feedback. Tradi
 These evaluations are made available to the professor only after final grades have been published. You can ask the course professor
 for your evaluation past this date if you are interested
 
-## CS118X
-If you are an 118X TA, we have a ![dedicated repository](https://github.com/wrightedu/CS118X/) for these classes.
-If you don't have access, contact Matt Kijowski (or somebody else) for access.
-
