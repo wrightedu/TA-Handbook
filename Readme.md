@@ -14,7 +14,7 @@
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Clocking Hours](#clocking-hours)
-- [What can be clocked:](#what-can-be-clocked)
+- [What can be clocked](#what-can-be-clocked)
 - [Forgetting to Submit your Timesheet](#forgetting-to-submit-your-timesheet)
 - [Working well with students](#working-well-with-students)
 - [Grading](#grading)
@@ -22,8 +22,8 @@
 - [Help Rooms](#help-rooms)
 - [Office Hours](#office-hours)
 - [Discord](#discord)
-- [Classes:](#classes)
-- [Course Evaluations:](#course-evaluations)
+- [Classes](#classes)
+- [Course Evaluations](#course-evaluations)
 
 ## Getting Started
 So you've been hired as a CS/CEG Teaching Assistant (TA). Congratuations 🥳.
@@ -49,7 +49,7 @@ After a few days, your timesheet approver will (hopefully) approve your hours an
 *DO NOT CLOCK MORE THAN 28 HOURS PER WEEK* (56 per pay period). If you do so, your employment will be terminated, and you will have to be
 rehired to fix it. 
 
-## What can be clocked:
+## What can be clocked
 Any job related work may be clocked in your timesheet. This includes, but is defintely not limited to:
 - Meetings
 - Grading
@@ -142,24 +142,27 @@ here if is it not busy at their chosen time. It currently supports the following
 ## Office Hours
 
 If you are a lab leader, you are required to hold weekly office hours. This is time for students to get more personalized
-help and/or feedback regarding course-related materials. You are required to hold a minimum of 2 office hours per week. This number can be
-increased based on need. But this only applies within reason (i.e. don't hold 10 extra hours one week because you just wanted more hours)
-There should be a dedicated space somewhere for you to hold these, but that can move if it is needed, see [helproom](##help-room)
+help and/or feedback regarding course-related materials. This is also the best time for students to ask confidential questions regarding their
+assignment grades, as a public setting like the help room can lead to confidentiality issues. You are required to hold a minimum of 2 office hours per week. This number can be
+increased based on need. But this only applies within reason (i.e. don't hold 10 extra hours one week because you just wanted more hours).
+There should be a dedicated space somewhere for you to hold these, but that can move if it is needed, see [helproom](##help-room).
 
 ## Discord
 
-The CECS department has a discord server. It acts as a central hub for more informal communication about courses.
+The CECS department has a discord server. It acts as a central hub for informal communications about courses.
 Every semester, you can select roles depending on what classes you are taking (or in this case teaching). Students can
 use this to ask questions, where you can answer them in a public manner to benefit all students. 
+Due to the public nature of the Discord server, do not allow students to upload their assignment code. With the `Teaching Assistant` role, you
+are granted the ability to delete their messages.
 Join the discord [here](https://discord.com/invite/pMUMzTt).
 
-## Classes:
-If you are interested in your particular course resources, check out `classes/[your_class].md` for a more detailed guide.
-If your class does not exist, feel free to make a PR.
+## Classes
+If you are interested in a particular course's resources, check out `classes/[your_class].md` for a more detailed guide.
+If the course guide does not exist yet, feel free to make the guide and submit a Pull Request.
 
-## Course Evaluations:
+## Course Evaluations
 At the end of every semester, students are asked to give course evaluations for their professors and Teaching Assistants.
-You will have to ask students to fill these out if you want real feedback. Traditionally, only about 5% of students will fill them out otherwise. 
+You will have to ask students to fill these out if you want real feedback. Historically, only about 5% of students will fill them out otherwise. 
 These evaluations are made available to the professor only after final grades have been published. You can ask the course professor
-for your evaluation past this date if you are interested
+for your evaluation past this date if you are interested.
 
