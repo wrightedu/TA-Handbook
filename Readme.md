@@ -42,7 +42,7 @@ this is your only position (and you haven't changed to/from a work-study) you wi
 have a single selection
 <img src="./img/sheetSelection.png" alt="Alt text" width="300" height="200">
 
-3. Hours can be clocked on this screen in 2-week chunks. It is recommended to fill 
+3. Hours can be clocked on this screen in 2-week period. It is recommended to fill 
 this out as you work. At the end of the 2-week period, you'll receive an email from payroll saying that
 timesheets are due sometime soon. This is your cue to go to this page and hit the `Submit for Approval` button.
 After a few days, your timesheet approver will (hopefully) approve your hours and will be paid the following Thursday.
