@@ -20,6 +20,7 @@
 - [Grading](#grading)
    * [How to Grade](#how-to-grade)
    * [Grading Bias](#grading-bias)
+- [Plagirism and Moss](#plagirism-and-moss)
 - [Help Rooms](#help-rooms)
 - [Office Hours](#office-hours)
 - [Discord](#discord)
@@ -127,6 +128,12 @@ Rotate which grader is responsible for grading which student submissions. For in
 Grader A would evaluate students 0-25 and Grader B would evaluate students 26-50. On the following week, have Grader A evaluate 26-50 and B evaluate 0-25.
 
 These methods can and should be used in tandem with one another for more consistent student evaluation.
+
+## Plagirism and Moss
+When it comes to programming assignments, it is important to ensure that students
+comply with [university academic integrity standards](https://policy.wright.edu/policy/3710-academic-integrity-standards-and-process-misconduct)
+The primary tool (other than general inspection) we use is a tool called [MOSS: Measure of Software Similarity](https://theory.stanford.edu/~aiken/moss/) 
+For more information, check out [this guide](./Moss)
 
 ## Help Rooms
 There are several help rooms in the department
