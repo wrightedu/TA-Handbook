@@ -20,7 +20,7 @@ Notably, there will be a line somewhere in there that looks like the following:
 ```
 $userid=2######8;
 ```
-Save this number. You will probably need it. If you got this reply, you have
+Save this number, you will need it. If you got this reply, you have
 successfully registered a MOSS account.
 
 ## Running MOSS With Discord
