@@ -19,7 +19,7 @@ successfully registered a MOSS account.
 ## Running MOSS With Discord
 The easiest way to use MOSS is the CSE Discord server. If you have the TA role, you 
 should see an additional channel called `#ta-moss`. You can use the 
-`/moss_register [userid]` command to begin (you only need to do this once)
+`/moss_register [userid]` command to begin (you only need to do this once).
 After registering, you can mass-download Dropbox files from Pilot 
 (Dropbox > Assignment > Select All > Download) to receive a zip file of all submissions.
 Run the `/moss` command and then upload the zip file you previously downloaded. In a few minutes,
