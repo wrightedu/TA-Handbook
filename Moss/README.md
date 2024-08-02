@@ -33,7 +33,7 @@ This script will require you to have perl downloaded onto your system to run it.
 <br/>
 The main issue with this perl script is that it expects a certain directory structure that a mass download from Pilot
 will not give you (too many ziped/unzipped files, multi-submissions, etc.). There are several file management scripts available for you to use
-in [ManagementScripts](./ManagementScript) or [LegacyScripts](./LegacyScripts)
+in [ManagementScripts](./ManagementScripts) or [LegacyScripts](./LegacyScripts)
 
 ## How MOSS Works
 
