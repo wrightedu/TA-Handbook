@@ -3,6 +3,13 @@ import java.util.zip.*;
 import java.util.Scanner;
 import java.util.Calendar;
 
+/**
+ *  Don't feel the need to maintain this author tag.
+ *  Just wanted to add this here since we moved the files and will lose 
+ *  track of the origial author in git -RH
+ * (original) @author Michelle Cheatham https://github.com/mcheatham
+ */
+
 class CodeUnpack {
 
     private static String CURRENT_YEAR = Integer.toString(Calendar.getInstance().get(Calendar.YEAR));

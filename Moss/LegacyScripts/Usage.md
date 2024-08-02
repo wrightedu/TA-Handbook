@@ -1,4 +1,7 @@
-# Moss Usage
+# Legacy Moss Usage
+
+Note: Please use the more general purpose scripts in the parent directory if
+you need to run MOSS locally. This script will only work with Java files anyway
 
 ## Requirements
 - Linux (works on Mac OS M1, should work on WSL)
