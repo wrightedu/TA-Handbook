@@ -132,8 +132,8 @@ These methods can and should be used in tandem with one another for more consist
 ## Plagirism and Moss
 When it comes to programming assignments, it is important to ensure that students
 comply with [university academic integrity standards](https://policy.wright.edu/policy/3710-academic-integrity-standards-and-process-misconduct)
-The primary tool (other than general inspection) we use is a tool called [MOSS: Measure of Software Similarity](https://theory.stanford.edu/~aiken/moss/) 
-For more information, check out [this guide](./Moss)
+The primary tool (other than general inspection) we use is a tool called [MOSS: Measure of Software Similarity](https://theory.stanford.edu/~aiken/moss/).
+For more information, check out [this guide](./Moss).
 
 ## Help Rooms
 There are several help rooms in the department

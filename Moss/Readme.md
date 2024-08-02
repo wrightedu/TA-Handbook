@@ -1,5 +1,12 @@
 # MOSS 
-A Code Plagiarism Checker
+A Code Plagiarism Checker.
+
+## What is MOSS?
+Moss is a tool we use to check for plagiarism across student submissions. It will systematically compare files and 
+compute two similarity scores for each possible pair of files and display their shared code snippets in a web GUI.
+It is important to note that MOSS is not an end-all be-all for academic integrity. Manual inspection is always of critical 
+importance for any flagged submissions. MOSS will often falsely flag students who receive similar advice and guidance in lab, or outside of lab in a help room.
+The de-facto standard generally used is anything above `50%` code similarity is at minimum considered somewhat suspicious. 
 
 ## To use MOSS, you will first need a MOSS account.
 You'll need to email `moss@moss.stanford.edu`. The body of your email
