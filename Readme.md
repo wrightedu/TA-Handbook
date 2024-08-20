@@ -68,17 +68,17 @@ is helpful, but not strictly necessary.
 
 The department enforces a variety of policies in regards to when hours can and cannot be clocked.
 Most importantly, *HOURS MUST NOW BE CLOCKED DAILY*.
-You must, as part of their paid duties, fill out their time sheet daily with the in and out times they worked.
+You must, as part of your paid duties, fill out your time sheet daily with the in and out times you worked.
 For example, if on a Monday, you work from 8am-12pm then take a break and work from 1pm-5pm, you should have two entries on
 Monday showing 8am in 12 pm out, 1pm in and 5pm out. Waiting until the last day or filling out time sheets a week in advance will not work.
-The departments monitors these time sheets closely.
+The department monitors these time sheets closely.
 
-Also, *STUDENTS CANNOT WORK OVERNIGHT HOURS*. Lab assistants/leaders/recitation assistants can work their lab times during
-the hours of M-F 8am-9pm and <u>helproom/graders may work during Saturday-Friday.</u>
+Also, *YOU CANNOT WORK OVERNIGHT HOURS*. If you are a Lab assistant/leader/recitation assistant, you can work your lab times during
+the hours of M-F 8am-9pm. If you are a <u>helproom/grader, you may work during Saturday-Friday.</u>
 No hours for any position should be recorded after 9pm on any day of the week.
 
-Additionally, if a student has two jobs - they need to be very aware not to overlap working hours on their time sheets or they will
-likely be meeting with Student Employment about how they worked 2 jobs at the same time.
+Additionally, if you have two jobs - you must be very aware not to overlap working hours on your time sheets or you will
+likely be meeting with Student Employment about how you worked 2 jobs at the same time.
 
 Students may not clock may than 28 hours per week. TA positions are posted at 10-20 hours per week.
 If your specific job demands more than 28 per week (56 hours per pay period), please ensure your professor is aware of this
