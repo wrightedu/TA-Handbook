@@ -28,6 +28,7 @@
 - [Discord](#discord)
 - [Classes](#classes)
 - [Course Evaluations](#course-evaluations)
+- [Student Confidentiality](#student-confidentiality)
 
 ## Getting Started
 So you've been hired as a CS/CEG Teaching Assistant (TA). Congratuations 🥳.
@@ -214,3 +215,13 @@ You will have to ask students to fill these out if you want real feedback. Histo
 These evaluations are made available to the professor only after final grades have been published. You can ask the course professor
 for your evaluation past this date if you are interested.
 
+
+## Student Confidentiality
+Wright State University is fully compliant with Family Educational Rights and Privacy Act of 1974 (FERPA).
+This mostly affects your job in the way it outlines what cannot be shared about students without their prior consent such as:
+- Grades
+- Academic Performance
+- Assignment Details
+
+There are many more things on this list, but those are the ones you are most likely to encounter as a TA.
+For more detailed information, please see the [WSU FERPA Notice](https://www.wright.edu/sites/www.wright.edu/files/page/attachments/WSU%20Annual%20FERPA%20Notice.pdf) and [University Policy 3010](https://policy.wright.edu/policy/3010-student-privacy-and-release-educational-records-ferpa)
