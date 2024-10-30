@@ -218,7 +218,7 @@ for your evaluation past this date if you are interested.
 
 ## Student Confidentiality
 Wright State University is fully compliant with Family Educational Rights and Privacy Act of 1974 (FERPA).
-This mostly affects your job in the way it outlines what cannot be shared about students without their prior consent such as:
+This mainly affects your job by specifying what information can’t be shared with anyone besides the appropriate faculty unless you have the student’s prior consent, including:
 - Grades
 - Academic Performance
 - Assignment Details
