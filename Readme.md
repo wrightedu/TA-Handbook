@@ -19,6 +19,7 @@
    * [Timesheets for International Students](#timesheets-for-international-students)
 - [Forgetting to Submit your Timesheet](#forgetting-to-submit-your-timesheet)
 - [Working well with students](#working-well-with-students)
+- [Extensions](#extensions)
 - [Grading](#grading)
    * [How to Grade](#how-to-grade)
    * [Grading Bias](#grading-bias)
@@ -111,6 +112,15 @@ really helps students feel comfortable and facilitates a better learning environ
 
 - Empathy: Stuff happens. Life is chaotic and people's lives are unpredictable. You should account for this in all things and if
 students ask for a deadline extension for a valid reason, make reasonable accomadations. Balancing empathy and being fair to everyone can be challenging.
+
+## Extensions
+If your course professor allows you to give extensions to students, it is important to communicate a few things to the students:
+
+- Students do not need to share private information with us for an extension.
+- Good reasoning for extension is preferred, but the details can be limited/omitted.
+- Students are able to contact the professor if they do not feel comfortable sharing something with a TA .
+
+Obviously, students will still often overshare, but relaying to them the above is still good practice.
 
 ## Grading
 How your class does grading is generally pretty class-dependent. If the students have some sort of Pilot Deliverable, it can
