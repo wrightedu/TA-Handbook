@@ -16,9 +16,11 @@
 - [Clocking Hours](#clocking-hours)
 - [What can be clocked](#what-can-be-clocked)
 - [When can I clock hours?](#when-can-i-clock-hours)
+   * [Holidays and Closures](#holidays-and-closures)
    * [Timesheets for International Students](#timesheets-for-international-students)
 - [Forgetting to Submit your Timesheet](#forgetting-to-submit-your-timesheet)
 - [Working well with students](#working-well-with-students)
+- [Extensions](#extensions)
 - [Grading](#grading)
    * [How to Grade](#how-to-grade)
    * [Grading Bias](#grading-bias)
@@ -85,6 +87,12 @@ likely be meeting with Student Employment about how you worked 2 jobs at the sam
 Students may not clock may than 28 hours per week. TA positions are posted at 10-20 hours per week.
 If your specific job demands more than 28 per week (56 hours per pay period), please ensure your professor is aware of this
 
+### Holidays and Closures
+
+Student employees are not expected to work when the university is closed for holidays, winter break, inclement weather, or other closure reasons.
+Some exceptions may apply for duties essential by the university, or at the supervisor/professors discretion (i.e. remote help room during snow storm, etc).
+Due to this, on days when the university is closed, you may be unable to log hours. On days where no-classes are held or the university is open, your hours are still valid.
+
 ### Timesheets for International Students
 International students cannot work more than 20 hours a week - for all jobs.
 
@@ -111,6 +119,15 @@ really helps students feel comfortable and facilitates a better learning environ
 
 - Empathy: Stuff happens. Life is chaotic and people's lives are unpredictable. You should account for this in all things and if
 students ask for a deadline extension for a valid reason, make reasonable accomadations. Balancing empathy and being fair to everyone can be challenging.
+
+## Extensions
+If your course professor allows you to give extensions to students, it is important to communicate a few things to the students:
+
+- Students do not need to share private information with us for an extension.
+- Good reasoning for extension is preferred, but the details can be limited/omitted.
+- Students are able to contact the professor if they do not feel comfortable sharing something with a TA .
+
+Obviously, students will still often overshare, but relaying to them the above is still good practice.
 
 ## Grading
 How your class does grading is generally pretty class-dependent. If the students have some sort of Pilot Deliverable, it can
