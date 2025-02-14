@@ -150,11 +150,12 @@ class CodeUnpack {
 
         if (parts.length >= 2) {
             String namePart = parts[1];
+            String datePart = parts[2].replace(" ", "");
             
             String[] nameParts = namePart.split(" ");
             
             if (nameParts.length >= 2) {
-                return nameParts[0] + nameParts[1];
+                return nameParts[0] + nameParts[1] + "-" +datePart;
             }
         }
         
