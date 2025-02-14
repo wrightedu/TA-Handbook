@@ -17,13 +17,14 @@ class CodeUnpack {
     public static void main(String[] args) throws Exception {
 
         File dir = new File(".");
+
         for (File f : dir.listFiles()) {
             String name = f.getName();
 
             if (!name.contains(CURRENT_YEAR))
                 continue;
 
-            String lastName = getLastName(name);
+            String lastName = getName(name);
             File newFile = new File("." + File.separatorChar + lastName + ".java");
 
             // for source files, just rename with the student's last name
@@ -144,10 +145,18 @@ class CodeUnpack {
         return destFile;
     }
 
-    public static String getLastName(String s) {
-        s = s.substring(s.indexOf(" - ") + 1);
-        s = s.substring(0, s.indexOf(" - "));
-        String[] tokens = s.split(" ");
-        return tokens[tokens.length - 1].trim();
-    }
-}
+    public static String getName(String input) {
+        String[] parts = input.split(" - ");
+
+        if (parts.length >= 2) {
+            String namePart = parts[1];
+            
+            String[] nameParts = namePart.split(" ");
+            
+            if (nameParts.length >= 2) {
+                return nameParts[0] + nameParts[1];
+            }
+        }
+        
+        return ""; // oops no name
+    }}
