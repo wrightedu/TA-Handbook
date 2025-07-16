@@ -249,7 +249,7 @@ To communicate effectively with students, it is often helpful to make anouncemen
 
 1. Select the ▼ next to the "News" menu in the Pilot Home page
 2. Select "New News Item" from the dropdown
-<img src="./img/news/home.png" alt="home page instructions" width="400" height="300">
+<img src="./img/news/home.png" alt="home page instructions" width="480" height="360">
 
 3. Give you News post a title
 4. Write the body of your news post. Optionally, you may add file atachments to the body
