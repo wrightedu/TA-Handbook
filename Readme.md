@@ -242,3 +242,15 @@ This mainly affects your job by specifying what information can’t be shared wi
 
 There are many more things on this list, but those are the ones you are most likely to encounter as a TA.
 For more detailed information, please see the [WSU FERPA Notice](https://www.wright.edu/sites/www.wright.edu/files/page/attachments/WSU%20Annual%20FERPA%20Notice.pdf) and [University Policy 3010](https://policy.wright.edu/policy/3010-student-privacy-and-release-educational-records-ferpa)
+
+## News Posts
+To communicate effectively with students, it is often helpful to make anouncements as news posts on Pilot. Students will be notified of these posts if desired.
+
+1. Select the ▼ next to the "News" menu in the Pilot Home page
+2. Select "New News Item" from the dropdown
+<img src="./img/news/home.png" alt="home page instructions" width="400" height="300">
+
+3. Give you News post a title
+4. Write the body of your news post. Optionally, you may add file atachments to the body
+5. If you are finished, publish your News post, or save it as a draft to publish later 
+<img src="./img/news/news_draft.png" alt="new news post instructions" width="400" height="300">
