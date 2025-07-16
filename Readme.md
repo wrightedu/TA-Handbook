@@ -254,4 +254,4 @@ To communicate effectively with students, it is often helpful to make anouncemen
 3. Give you News post a title
 4. Write the body of your news post. Optionally, you may add file atachments to the body
 5. If you are finished, publish your News post, or save it as a draft to publish later 
-<img src="./img/news/news_draft.png" alt="new news post instructions" width="400" height="300">
+<img src="./img/news/news_draft.png" alt="new news post instructions" width="480" height="360">
