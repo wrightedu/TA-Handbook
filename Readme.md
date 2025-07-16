@@ -31,6 +31,7 @@
 - [Classes](#classes)
 - [Course Evaluations](#course-evaluations)
 - [Student Confidentiality](#student-confidentiality)
+- [News Posts](#news-posts)
 
 ## Getting Started
 So you've been hired as a CS/CEG Teaching Assistant (TA). Congratuations 🥳.
