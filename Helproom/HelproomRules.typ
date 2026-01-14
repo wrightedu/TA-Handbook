@@ -1,15 +1,18 @@
-#set page(margin: 1in)
+#set page(margin: 0.5in)
+#set text(size: 16pt)
+#set text(font: "Aptos")
 
-#text(size: 18pt, weight: "bold")[Helproom Rules:]
+#underline([#text(size: 30pt, weight: "bold")[Helproom Rules:]])
+#linebreak()
 #linebreak()
 
-#text(weight: "bold")[Be Nice]
+#text(weight: "bold")[BE NICE]
 #linebreak()
 
 // doing explicit numbers bc a "+" will auto reset after a break
-1. Employees should be kind and respectful of all students and coworkers.
-2. Inflammatory topics (politics, religion, ethics, etc.) are not to be discussed during working hours.
-3. Multiple classes will hold office hours in the helproom, please be respectful of their space.
+1.  Employees should be kind and respectful of all students and coworkers.
+2.  Inflammatory topics (politics, religion, ethics, etc.) are not to be discussed during working hours.
+3.  Multiple classes will hold office hours in the helproom, please be respectful of their space.
 
 #linebreak()
 #text(weight: "bold")[RESPECT THE ROOM]
@@ -26,7 +29,6 @@
 7. If a student enters the helproom, it is the on-duty TA’s responsibility to approach and assist them.
 8. Individual student help should not exceed 15 minutes of continuous help at a time. (Students should spend some time working on their own before getting more help.)
 
-#linebreak()
 #linebreak()
 
 // underline and blue-ify links
